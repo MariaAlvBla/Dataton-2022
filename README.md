@@ -9,13 +9,16 @@ Su propósito es:
 <br />
 
 1. Facilitar la adecuada deposición y almacenamiento de datos y metadatos de secuenciación masiva del
-gen 16S rRNA en el "Sequence Read Archives (SRA)" del National Center for Biotechnology Information (NCBI)
+gen 16S rRNA en el "Sequence Read Archives (SRA)" del National Center for Biotechnology Information (NCBI).
+
 2. La creación de bases de datos locales de microbiotas para su reuso a escala global.
 
 <br />
 
 Para facilitar el intercambio de datos, hemos creado dos tutoriales:
+
 * [Cómo depositar secuencias al Portal de NCBI](https://github.com/MariaAlvBla/NCBI-Tutorial/blob/main/Submitting%20data%20to%20NCBI.md)
+
 * [Cómo generar tablas de metadatos compatibles, cuando las secuencias ya han sido sido depositadas en el portal de NCBI,
 pero que se van a incluí en la base de datos local](https://github.com/MariaAlvBla/NCBI-Tutorial/blob/main/Sharing%20already%20uploaded%20data). 
 
