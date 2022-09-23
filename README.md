@@ -1,7 +1,7 @@
 # Datatón: un evento dedicado al archivado y reanálisis de datos de microbiotas #
 <br />
 
-El Datatón es un evento centrado en la recolección y el archivado de secuencias del gen 16S rRNA.
+El Datatón es un evento centrado en la recolección y el archivado de datos de secuenciación masiva del gen 16S rRNA.
 
 <br />
 
