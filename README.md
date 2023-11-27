@@ -17,10 +17,10 @@ gen 16S rRNA en el "Sequence Read Archives (SRA)" del National Center for Biotec
 
 Para facilitar el intercambio de datos, hemos creado dos tutoriales:
 
-* [Cómo depositar secuencias al Portal de NCBI](https://github.com/MariaAlvBla/NCBI-Tutorial/blob/main/Submitting%20data%20to%20NCBI.md)
+* [Cómo depositar secuencias al Portal de NCBI](https://github.com/MariaAlvBla/Dataton-2022/wiki/Depositar-datos-de-secuenciaci%C3%B3n-masiva-del-gen-16S-rRNA-y-las-regiones-ITS-al-SRA-de-NCBI)
 
 * [Cómo generar tablas de metadatos compatibles, cuando las secuencias ya han sido sido depositadas en el portal de NCBI,
-pero que se van a incluí en la base de datos local](https://github.com/MariaAlvBla/NCBI-Tutorial/blob/main/Sharing%20already%20uploaded%20data). 
+pero que se van a incluir en la base de datos local](https://github.com/MariaAlvBla/Dataton-2022/wiki/Compartir-secuencias-que-ya-han-sido-depositadas-en-el-SRA-de-NCBI). 
 
 <br />
 
